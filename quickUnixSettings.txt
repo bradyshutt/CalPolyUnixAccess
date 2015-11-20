@@ -1,0 +1,5 @@
+#FORMAT:
+#VARIABLE="VALUE"
+
+unixlogin="bshutt@unix13.csc.calpoly.edu"
+unixLoginName="bshutt@unix13.csc.calpoly.edu"
